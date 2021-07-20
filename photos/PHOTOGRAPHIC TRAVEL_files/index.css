@@ -1,0 +1,35 @@
+ul{
+    color: yellow;
+}
+h1{
+        font-family: 'Times New Roman', Times, serif;
+        color: blue;
+        font-size: 28px;
+        text-align: center;
+      
+}
+body{
+    background-color: rgb(16, 2, 29);
+}
+p{
+    color: wheat;
+}
+.menu{
+    float: right;
+}
+nav{
+    height: 100%;
+    width: 100%;
+    background-color: turquoise;
+    
+}
+
+p{
+    color: rgb(145, 240, 56);
+}
+ul li{
+    display: inline;
+}
+ul li{
+    text-decoration: none;
+}
